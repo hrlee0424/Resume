@@ -47,9 +47,9 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   역할 : 투표 리스트, 토론 리스트, 토론 상세보기, 마이페이지 개발
   주요 기술 : Java, Retrofit2, MVC 패턴, Firebase, FCM, RxJava, Glide, SharedPreferences
   
-   Link: [PlayStore][link]
+   Link: [PlayStore][link1]
 
-[link]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=en_US&gl=US
+[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=en_US&gl=US
 
 --------------------------------------
 
@@ -59,8 +59,8 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   역할 : 마이페이지, 토론 리스트, 토론 상세보기 개발   
   주요 기술 : Dart, REST API, http통신, MVC 패턴, Firebase   
   
-  Link: [PlayStore][link]
+  Link: [PlayStore][link1]
 
-[link]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=en_US&gl=US
+[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=en_US&gl=US
 
 
