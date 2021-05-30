@@ -49,7 +49,7 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   
    Link: [PlayStore][link1]
 
-[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=en_US&gl=US
+[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=ko&gl=US
 
 --------------------------------------
 
@@ -61,6 +61,6 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   
   Link: [PlayStore][link1]
 
-[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=en_US&gl=US
+[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=ko&gl=US
 
 
