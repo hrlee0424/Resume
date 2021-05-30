@@ -46,7 +46,7 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   정치 및 사회의 이슈를 가지고 실시간으로 투표를 만들어 의견을 공유하고 함께 토론하는 커뮤니티 어플   
   기간 : 2020.06 ~ 2020.12     
   언어 : Android Java 안드로이드 버전 개발   
-  역할 : 투표 리스트, 토론 리스트, 토론 상세보기, 마이페이지 개발
+  역할 : 투표 리스트, 토론 리스트, 토론 상세보기, 마이페이지 개발(전체 70% 개발)   
   주요 기술 : Java, Retrofit2, MVC 패턴, Firebase, FCM, RxJava, Glide, SharedPreferences
   
    Link: [PlayStore][link1]
