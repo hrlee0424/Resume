@@ -59,7 +59,7 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
 
 - #### 반반투표   
   기간 : 2021.01 ~ 2020.03   
-  언어 : Flutter(Android, IOS) 추가 개발
+  언어 : Flutter(Android, IOS) 추가 개발   
   역할 : 마이페이지, 토론 리스트, 토론 상세보기 개발   
   주요 기술 : Dart, REST API, http통신, MVC 패턴, Firebase   
   
