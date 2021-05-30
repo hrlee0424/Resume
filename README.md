@@ -38,6 +38,8 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
 
 [link]: https://play.google.com/store/apps/details?id=com.flutterletseat&hl=ko&gl=US
 
+![image](https://user-images.githubusercontent.com/48560411/120103319-0052b500-c18a-11eb-911a-b9e7dc433fe8.png)
+
 --------------------------------------
 
 - #### 반반투표   
@@ -63,6 +65,8 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   
   Link: [PlayStore][link1]
 
-[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=ko&gl=US
+[link1]: https://play.google.com/store/apps/details?id=com.pj.banbanvote&hl=ko&gl=US   
+
+![image](https://user-images.githubusercontent.com/48560411/120103270-cd102600-c189-11eb-828c-cb5cdffa4277.png)
 
 
