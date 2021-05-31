@@ -25,13 +25,13 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
 - Firebase, FCM
 - MS-SQL(쿼리문)
 
-# Project
+# App Project
 
 - #### 같이먹자   
   맛있는 음식을 누군가와 같이 먹고 싶을 때 내 주변, 동네 친구를 만들고 싶을 때 친구&모임 찾기 어플  
  기간 : 2020.05 ~ 2020.08    
  언어 : Flutter 개발    
- 역할 : 마이페이지(회원 프로필 수정), 식당 추천메뉴 리스트 개발   
+ 역할 : REST API, http통신 이용 마이페이지(회원 프로필 정보 수정), 식당 추천 리스트 개발   
  주요 기술 : Dart, REST API, http통신, MVC 패턴, Firebase
  
     Link: [PlayStore][link]
@@ -46,8 +46,8 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
   정치 및 사회의 이슈를 가지고 실시간으로 투표를 만들어 의견을 공유하고 함께 토론하는 커뮤니티 어플   
   기간 : 2020.06 ~ 2020.12     
   언어 : Android Java 안드로이드 버전 개발   
-  역할 : 투표 리스트, 토론 리스트, 토론 상세보기, 마이페이지 개발(전체 70% 개발)   
-  주요 기술 : Java, Retrofit2, MVC 패턴, Firebase, FCM, RxJava, Glide, SharedPreferences
+  역할 : Firebase 소셜(구글), 소셜(naver) 사용 및 이메일 회원가입, 투표 리스트, 토론 리스트, 토론 상세보기, 게시글 댓글, 마이페이지 개발(전체 70% 개발)   
+  주요 사용 기술 : Java, Retrofit2, MVC 패턴, Firebase, FCM, RxJava, Glide, SharedPreferences   
   
    Link: [PlayStore][link1]
 
@@ -60,7 +60,7 @@ Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
 - #### 반반투표   
   기간 : 2021.01 ~ 2020.03   
   언어 : Flutter(Android, IOS) 추가 개발   
-  역할 : 마이페이지, 토론 리스트, 토론 상세보기 개발   
+  역할 : 마이페이지 전체 페이지, 토론 리스트, 토론 상세보기, 유저 알림창 개발      
   주요 기술 : Dart, REST API, http통신, MVC 패턴, Firebase   
   
   Link: [PlayStore][link1]
