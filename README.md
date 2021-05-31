@@ -1,6 +1,6 @@
 # Resume
 안녕하세요 1년차 안드로이드 개발자 이혜림입니다.   
-Java와 Flutter를 개발하고 현재 Kotlin을 공부하고 있습니다.
+Android Java와 Flutter의 개발경험이 있으며 현재 Kotlin을 공부&개발 하고 있습니다.
 
 # Career
 - 2020.05 ~ 2021.04 (주)평정커뮤니케이션    
