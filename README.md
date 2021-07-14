@@ -1,6 +1,6 @@
 # Resume
-안녕하세요 1년차 안드로이드 개발자 이혜림입니다.   
-Android Java와 Flutter의 개발경험이 있으며 현재 Flutter를 집중적으로 공부하고 있습니다.
+안녕하세요 안드로이드 개발자 이혜림입니다.   
+Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개발자가 되기위해 Flutter를 집중적으로 공부하고 있습니다.
 
 # Career
 - 2020.05 ~ 2021.04 (주)평정커뮤니케이션    
@@ -32,7 +32,7 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter를 집중적
  기간 : 2020.05 ~ 2020.08    
  언어 : Flutter 개발    
  역할 : REST API, http통신 이용 마이페이지(회원 프로필 정보 수정), 식당 추천 리스트 개발   
- 주요 기술 : Dart, REST API, http통신, MVC, Firebase
+ 주요 기술 : Dart, REST API, http통신, MVC, Firebase, CustomView
  
     Link: [PlayStore][link]
 
@@ -47,7 +47,7 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter를 집중적
   기간 : 2020.06 ~ 2020.12     
   언어 : Android Java 안드로이드 버전 개발   
   역할 : Firebase 소셜(구글), 소셜(naver) 사용 및 이메일 회원가입, 투표 리스트, 토론 리스트, 토론 상세보기, 게시글 댓글, 마이페이지 개발(전체 70% 개발)   
-  주요 사용 기술 : Java, Retrofit2, MVC, Firebase, FCM, RxJava, Glide, SharedPreferences, number-picker, circleimageview, indicatorseekbar, image-cropper    
+  주요 사용 기술 : Java, Retrofit2, CustomLayout, MVC, Firebase, FCM, RxJava, Glide, SharedPreferences, number-picker, circleimageview, indicatorseekbar, image-cropper    
   
    Link: [PlayStore][link1]
 
@@ -70,3 +70,27 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter를 집중적
 ![image](https://user-images.githubusercontent.com/48560411/120103270-cd102600-c189-11eb-828c-cb5cdffa4277.png)
 
 
+- ### BitCoinList   
+  비트코인 리스트 & 호가창을 보여주는 앱   
+  기간 : 2021.05 ~ 2021.06   
+  언어 : Android Java   
+  역할 : 1인 개발로 업비트 API를 이용해 정보 리스트 & 호가창 개발  
+  API 활용해 리스트 생성, 호가창 하위 정보들 활용해 수치 변환 & 표시
+  주요 기술 : Android Java, REST API, MVC   
+  
+    Link: [GitHub][link1]
+
+  [link1]: https://github.com/hrlee0424/CoinList
+  
+
+- ### UPTALK   
+  주식하는 사람들의 커뮤니티 앱   
+  기간 : 2021.06 ~ 2021.07   
+  언어 : Flutter  
+  역할 : 1인 개발로 FireBase 이용해 커뮤니티앱 개발   
+  Firebase 이미지 저장, 데이터 저장, 업데이트, 삭제, 검색
+  주요 기술 : Provider 패턴, [Firebase] Email Login, cloud database, storage   
+  
+  Link: [GitHub][link1]
+
+  [link1]: https://github.com/hrlee0424/community_stock
