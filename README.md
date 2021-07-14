@@ -71,6 +71,24 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
 ![image](https://user-images.githubusercontent.com/48560411/120103270-cd102600-c189-11eb-828c-cb5cdffa4277.png)
 
 
+
+
+# 개인 포트폴리오
+
+- ### UPTALK   
+  주식하는 사람들의 커뮤니티 앱   
+  기간 : 2021.06 ~ 2021.07   
+  언어 : Flutter  
+  역할 : 1인 개발로 FireBase 이용해 커뮤니티앱 개발   
+  Firebase 이미지 저장, 데이터 저장, 업데이트, 삭제, 검색
+  주요 기술 : Provider 패턴, [Firebase] Email Login, cloud database, storage   
+  
+  Link: [GitHub][link1]
+
+  [link1]: https://github.com/hrlee0424/community_stock
+  
+  --------------------------------------
+  
 - ### BitCoinList   
   비트코인 리스트 & 호가창을 보여주는 앱   
   기간 : 2021.05 ~ 2021.06   
@@ -84,14 +102,6 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
   [link1]: https://github.com/hrlee0424/CoinList
   
 
-- ### UPTALK   
-  주식하는 사람들의 커뮤니티 앱   
-  기간 : 2021.06 ~ 2021.07   
-  언어 : Flutter  
-  역할 : 1인 개발로 FireBase 이용해 커뮤니티앱 개발   
-  Firebase 이미지 저장, 데이터 저장, 업데이트, 삭제, 검색
-  주요 기술 : Provider 패턴, [Firebase] Email Login, cloud database, storage   
-  
-  Link: [GitHub][link1]
 
-  [link1]: https://github.com/hrlee0424/community_stock
+
+
