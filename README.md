@@ -99,8 +99,12 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
   
     Link: [GitHub][link1]
 
-  [link1]: https://github.com/hrlee0424/CoinList
-  
+  [link1]: https://github.com/hrlee0424/CoinList   
+ 
+  ![image](https://user-images.githubusercontent.com/48560411/125833979-bc067c59-d15e-4029-97cb-f6456f344cac.png)
+  ![image](https://user-images.githubusercontent.com/48560411/125834115-a2869174-873a-4630-bc56-69f53fa23208.png)
+  ![image](https://user-images.githubusercontent.com/48560411/125834062-89a14867-b696-4a31-8344-c0f7fbd42bdc.png)
+
 
 
 
