@@ -77,7 +77,7 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
 
 - ### UPTALK   
   주식하는 사람들의 커뮤니티 앱   
-  기간 : 2021.06 ~ 2021.07   
+  기간 : 2021.06.24 ~ 개발 중
   언어 : Flutter  
   역할 : 1인 개발로 FireBase 이용해 커뮤니티앱 개발   
   Firebase 이미지 저장, 데이터 저장, 업데이트, 삭제, 검색
@@ -85,7 +85,11 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
   
   Link: [GitHub][link1]
 
-  [link1]: https://github.com/hrlee0424/community_stock
+  [link1]: https://github.com/hrlee0424/community_stock   
+  
+  ![image](https://user-images.githubusercontent.com/48560411/126109557-0c3b79f4-adb5-4de3-84ec-75551a435eec.png)
+  ![image](https://user-images.githubusercontent.com/48560411/126109584-b38cb9bb-1ff2-499a-bd30-7148f4959cac.png)
+  ![image](https://user-images.githubusercontent.com/48560411/126109633-0c888d38-e305-4bf1-8d91-8e9c51afea40.png)
   
   --------------------------------------
   
