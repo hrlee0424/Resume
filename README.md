@@ -83,9 +83,9 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
   Firebase 이미지 저장, 데이터 저장, 업데이트, 삭제, 검색
   주요 기술 : Provider 패턴, [Firebase] Email Login, cloud database, storage   
   
-  Link: [GitHub][link1]
+  Link: [GitHub][link2]
 
-  [link1]: https://github.com/hrlee0424/community_stock   
+  [link2]: https://github.com/hrlee0424/community_stock   
   
   ![image](https://user-images.githubusercontent.com/48560411/126109557-0c3b79f4-adb5-4de3-84ec-75551a435eec.png)
   ![image](https://user-images.githubusercontent.com/48560411/126109584-b38cb9bb-1ff2-499a-bd30-7148f4959cac.png)
@@ -101,9 +101,9 @@ Android Java와 Flutter의 개발경험이 있으며 현재 Flutter 전문 개�
   API 활용해 리스트 생성, 호가창 하위 정보들 활용해 수치 변환 & 표시
   주요 기술 : Android Java, REST API, MVC   
   
-    Link: [GitHub][link1]
+    Link: [GitHub][link3]
 
-  [link1]: https://github.com/hrlee0424/CoinList   
+  [link3]: https://github.com/hrlee0424/CoinList   
  
   ![image](https://user-images.githubusercontent.com/48560411/125833979-bc067c59-d15e-4029-97cb-f6456f344cac.png)
   ![image](https://user-images.githubusercontent.com/48560411/125834115-a2869174-873a-4630-bc56-69f53fa23208.png)
