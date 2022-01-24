@@ -4,11 +4,14 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
 처음 배웠을 때 막막했던 부분들을 나와 같은 고민을 하고 있는 사람들을 위해 블로그에 기록하는 것을 생활화하고 있습니다.
 
 # Career
+- 2021.09.07 ~ 바디프랜드
+  Flutter 개발
+  
 - 2020.05 ~ 2021.04 (주)평정커뮤니케이션    
   Android(Java), Flutter 개발
   
 - 2016.04 ~ 2018.07 (주)대산기술   
-  Visual Basic WinForm 응용프로그램 개발
+  Visual Basic WinForm 응용프로그램 개발  
   
 # Educations
 - 2013.03 ~ 2017.02 대림대학 디지털 전자과
