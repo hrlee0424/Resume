@@ -59,7 +59,7 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
  
  [link]: [https://play.google.com/store/apps/details?id=kr.co.bodyfriend.thePhantom&hl=ko&gl=US](https://play.google.com/store/apps/details?id=kr.co.bodyfriend.the_pharaoh&hl=ko&gl=US)
  
- ![image]([https://play-lh.googleusercontent.com/VD52Hts8njVPypjqJNLg7TCzNNr-M-mRxQsvVTFBAey5lbglCClDLaYLcmty1vsMFw=w240-h480-rw](https://play-lh.googleusercontent.com/HJifRuqkXHrTSurTvcWw8Y4SWbkybvPXX6hezvE2d3J7jvLbmL3ZC7X5jZC59mQpJNuE=w240-h480-rw)
+ ![image](https://play-lh.googleusercontent.com/HJifRuqkXHrTSurTvcWw8Y4SWbkybvPXX6hezvE2d3J7jvLbmL3ZC7X5jZC59mQpJNuE=w240-h480-rw)
  
 - #### 같이먹자   
   맛있는 음식을 누군가와 같이 먹고 싶을 때 내 주변, 동네 친구를 만들고 싶을 때 친구&모임 찾기 어플  
