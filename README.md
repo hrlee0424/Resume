@@ -18,19 +18,35 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
 - 2010.03 ~ 2013.02 명문고등학교 졸업
 
 # Skils
+- Flutter
+- GetX, Bloc 패턴
+- Bluetooth
+- Firebase, FCM
 - Android
 - Java
 - Kotlin
-- Flutter
 - RxJava
 - Retrofit2
 - REST API
 - MVC, MVVM 패턴
-- Firebase, FCM
 - MS-SQL(쿼리문 초급)
 
 # App Project
 
+
+- #### 더팬텀 
+  더팬텀 마사지체어 리모컨 앱
+ 기간 : 2021.10 ~ 2022.10    
+ 언어 : Flutter 개발    
+ 역할 : 앱 전체 커스텀 UI 개발, 블루투스 통신, 마사지 체어 연동 및 와이파이 esp 연결개발
+ 주요 기술 : Dart, Bluetooth, CustomView, Bloc 패턴, firebase 애널리틱스
+ 
+ Link: [PlayStore][link]
+ 
+ [link]: https://play.google.com/store/apps/details?id=kr.co.bodyfriend.thePhantom&hl=ko&gl=US
+ 
+ ![image](https://play-lh.googleusercontent.com/VD52Hts8njVPypjqJNLg7TCzNNr-M-mRxQsvVTFBAey5lbglCClDLaYLcmty1vsMFw=w240-h480-rw)
+ 
 - #### 같이먹자   
   맛있는 음식을 누군가와 같이 먹고 싶을 때 내 주변, 동네 친구를 만들고 싶을 때 친구&모임 찾기 어플  
  기간 : 2020.05 ~ 2020.08    
