@@ -33,6 +33,27 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
 
 # App Project
 
+- #### 바디프랜드 멤버십 Flutter 클로닝
+  기존 네이티브로 된 앱 Flutter 개발
+ 기간 : 2023.03 ~     
+ 언어 : Flutter 개발     
+ 역할 : 앱 전체 커스텀 UI 개발, API 연동, 네이티브 라이브러리 연동 
+ 주요 기술 : Dart, CustomView, GetX 패턴, 코틀린, Swift
+ 
+- #### Wi-Fi 연결도우미
+  사용중인 마사지체어와 Wi-Fi 네트워크를 연결할 수 있도록 하는 앱
+ 기간 : 2022.10 ~ 2022.12    
+ 언어 : Flutter 개발     
+ 역할 : 앱 전체 커스텀 UI 개발, 블루투스 통신, 마사지 체어 연동 및 와이파이 esp 연결개발   
+ 주요 기술 : Dart, Bluetooth, CustomView, GetX 패턴, firebase 애널리틱스
+ 
+ Link: [PlayStore][link]
+ 
+ [link]: https://play.google.com/store/apps/details?id=co.kr.bodyfriend.espcustomer&hl=ko
+ 
+ ![image](https://apps.apple.com/kr/app/%EB%B0%94%EB%94%94%ED%94%84%EB%9E%9C%EB%93%9C-wi-fi-%EC%97%B0%EA%B2%B0%EB%8F%84%EC%9A%B0%EB%AF%B8/id1611538605)
+ 
+ 
 
 - #### 더팬텀 
   더팬텀 마사지체어 리모컨 앱
