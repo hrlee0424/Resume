@@ -40,6 +40,8 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
  역할 : 앱 전체 커스텀 UI 개발, API 연동, 네이티브 라이브러리 연동 
  주요 기술 : Dart, CustomView, GetX 패턴, 코틀린, Swift
  
+ --------------------------------------
+ 
 - #### Wi-Fi 연결도우미
   사용중인 마사지체어와 Wi-Fi 네트워크를 연결할 수 있도록 하는 앱
  기간 : 2022.10 ~ 2022.12    
@@ -53,7 +55,7 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
  
  ![image](https://play-lh.googleusercontent.com/9TGtP6JiDoircPdVnGJWxy5EEqSnSZsZmTTlpGlh9NPFduTd5p5Mj0SEc72l6rttdtwF=w240-h480-rw)
  
- 
+ --------------------------------------
 
 - #### 더팬텀 
   더팬텀 마사지체어 리모컨 앱
@@ -68,6 +70,7 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
  
  ![image](https://play-lh.googleusercontent.com/VD52Hts8njVPypjqJNLg7TCzNNr-M-mRxQsvVTFBAey5lbglCClDLaYLcmty1vsMFw=w240-h480-rw)
  
+ --------------------------------------
  
 - #### 더파라오
   더팬텀 마사지체어 리모컨 앱
