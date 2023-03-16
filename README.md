@@ -51,7 +51,7 @@ Android Java와 Flutter의 개발경험이 있으며 각종 에러와 코딩을 
  
  [link]: https://play.google.com/store/apps/details?id=co.kr.bodyfriend.espcustomer&hl=ko
  
- ![image](https://apps.apple.com/kr/app/%EB%B0%94%EB%94%94%ED%94%84%EB%9E%9C%EB%93%9C-wi-fi-%EC%97%B0%EA%B2%B0%EB%8F%84%EC%9A%B0%EB%AF%B8/id1611538605)
+ ![image](https://play-lh.googleusercontent.com/9TGtP6JiDoircPdVnGJWxy5EEqSnSZsZmTTlpGlh9NPFduTd5p5Mj0SEc72l6rttdtwF=w240-h480-rw)
  
  
 
